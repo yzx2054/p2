@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "include.h": "c",
+        "pwm.h": "c",
+        "beep.h": "c",
+        "hcsr04.h": "c",
+        "sys.h": "c",
+        "motor_wheel.h": "c",
+        "l298n.h": "c",
+        "stdio.h": "c",
+        "event_groups.h": "c",
+        "stm32f4xx.h": "c",
+        "bluetooth.h": "c",
+        "bmp.h": "c",
+        "oledfont.h": "c",
+        "limits.h": "c",
+        "mfrc522.h": "c",
+        "led.h": "c"
+    }
+}
